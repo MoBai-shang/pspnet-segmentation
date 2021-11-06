@@ -62,8 +62,3 @@ LIP
 
 ## Visualization
 ﻿![20 epoch train](https://img-blog.csdnimg.cn/6a3c6b4547664adaa384f78c74678601.png#pic_center)
-
-
-
-
-<img src="https://github.com/hyk1996/Single-Human-Parsing-LIP/blob/master/demo/result.jpg"  height="250" width="500">
